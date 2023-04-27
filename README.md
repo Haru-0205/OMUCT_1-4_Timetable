@@ -16,3 +16,4 @@
 ### *方法2　推奨アプリ　Obsidianを使用する方法*
 （これ以降は後日追記します）  
 [時間割へ](timetable.md)
+<iframe width="640px" height="480px" src="https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJUMlI3N01SN0hNTU0wRERBM1ZEMlo1TjhSMC4u&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
