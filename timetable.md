@@ -9,5 +9,6 @@
 [フィードバック](https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJUMlA3S1pJWjdDSDBNVVJYQ0dZUVBKUUw2VS4u)  
 [エラー報告](https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJUODUyTE43QTlORTdCVzlJUDg1MFJHWUhEVS4u)  
 [機能提案･改善要求](https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJUMlI3N01SN0hNTU0wRERBM1ZEMlo1TjhSMC4u)  
+[内容追加](https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJURTc4MDlZNUdBVEVaRFpXU0tWVzFHQUdESy4u)
 [お問い合わせ](https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJUQU0xMzNMUTUyNEZHS0hJMzRFM1VESlZMSC4u)
 
