@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="Merge remote-tracking branch 'origin/main'" />
+    <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="Merge remote-tracking branch 'origin/main'">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/timetable.md" beforeDir="false" afterPath="$PROJECT_DIR$/timetable.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +42,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/haru0205/OneDrive - 公立大学法人大阪/GitHub/OMUCT_1-4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -60,7 +64,9 @@
       <workItem from="1682574279829" duration="5028000" />
       <workItem from="1682586040307" duration="3936000" />
       <workItem from="1682595385802" duration="7131000" />
-      <workItem from="1682603932274" duration="4244000" />
+      <workItem from="1682603932274" duration="5708000" />
+      <workItem from="1682612317808" duration="155000" />
+      <workItem from="1682613155275" duration="120000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -244,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682608941010</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1682609424333</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1682609424333</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Merge remote-tracking branch 'origin/main'">
+      <created>1682609799551</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1682609799551</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
