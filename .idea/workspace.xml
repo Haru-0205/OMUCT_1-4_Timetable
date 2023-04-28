@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="Merge remote-tracking branch 'origin/main'">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/timetable.md" beforeDir="false" afterPath="$PROJECT_DIR$/timetable.md" afterDir="false" />
+    <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="update">
+      <change beforePath="$PROJECT_DIR$/general/basic_math_a.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/basic_math_a.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
       <workItem from="1682603932274" duration="5708000" />
       <workItem from="1682612317808" duration="155000" />
       <workItem from="1682613155275" duration="120000" />
+      <workItem from="1682661301259" duration="373000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -264,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682609799551</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update">
+      <created>1682661443175</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1682661443175</updated>
+    </task>
+    <task id="LOCAL-00030" summary="update">
+      <created>1682661508120</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1682661508120</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -286,6 +300,7 @@
     <MESSAGE value="subject_Files_Add" />
     <MESSAGE value="index.html" />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

@@ -17,8 +17,13 @@
 ## テスト関連
 - [ ] 高専テキストシリーズ基礎数学問題集(詳細は配布されたプリント参照)(前期中間試験終了後)
 # 連絡
+# 小テスト
+| 回 | 日程 | 範囲 |
+| --- | --- | --- |
+| 1| 5/11 | 問1.1~1.12 |
 
 # 関連科目
-[基礎数学C](basic_math_c.md)  
+[基礎数学C](basic_math_c.md) 
 
+[Moodle](https://moodle.edu.osaka-pct.ac.jp/moodle/login/index.php)
 [**時間割に戻る**](../timetable.md)
