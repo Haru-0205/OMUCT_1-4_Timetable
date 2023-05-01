@@ -5,6 +5,8 @@
 | 5-6 |      [基礎数学A](general/basic_math_a.md)      | [ダイバーシティと人権](general/diversity.md) |        [英語表現1](general/english_expression1.md)        |   [英語1](general/english1.md)   |                        [基礎数学C](general/basic_math_c.md)                         |
 | 7-8 |                                    |      [保健体育1](general/pe1.md)      |           [HR](general/HR.md)           |                          |                                                                         |
 
+# 連絡
+- 5/8 1-2と5-6入れ替え
 [**READMEへ**](README.md)  
 [フィードバック](https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJUMlA3S1pJWjdDSDBNVVJYQ0dZUVBKUUw2VS4u)  
 [エラー報告](https://forms.office.com/Pages/ResponsePage.aspx?id=6Zxr3Lqm0069Z5-eOshc8dR_9WlpHBdGkd2Sph1DzRJUODUyTE43QTlORTdCVzlJUDg1MFJHWUhEVS4u)  
