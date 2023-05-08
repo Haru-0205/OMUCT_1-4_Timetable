@@ -71,6 +71,7 @@
       <workItem from="1682911087297" duration="19000" />
       <workItem from="1683014515013" duration="339000" />
       <workItem from="1683358733787" duration="25000" />
+      <workItem from="1683532739527" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -303,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683014839809</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="update">
+      <created>1683532765602</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1683532765602</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
