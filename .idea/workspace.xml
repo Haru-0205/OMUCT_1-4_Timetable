@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c11da279-2b04-46d0-8cc5-2afb6d446771" name="変更" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/general/HR.md" beforeDir="false" afterPath="$PROJECT_DIR$/general/HR.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +21,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/時間割.md" root0="SKIP_HIGHLIGHTING" root1="SKIP_INSPECTION" />
@@ -71,7 +69,8 @@
       <workItem from="1682694873765" duration="7000" />
       <workItem from="1682897659396" duration="825000" />
       <workItem from="1682911087297" duration="19000" />
-      <workItem from="1683014515013" duration="318000" />
+      <workItem from="1683014515013" duration="339000" />
+      <workItem from="1683358733787" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="WebStormでの編集">
       <created>1682567963032</created>
@@ -297,7 +296,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682663376557</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="update">
+      <created>1683014839809</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1683014839809</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
